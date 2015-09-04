@@ -1,4 +1,27 @@
-# DOCter
+# Brigade Ops
+
+This is our forthcoming Brigade Ops Manual. Topics will include:
+- Events
+  - Hack Nights
+  - Hackathons
+  - Special Events
+- Projects
+  - Proposing Ideas
+  - Selection Process
+  - Development
+  - Deployment
+  - Marketing
+  - Strategic Partnerships
+- Membership
+  - Onboarding New Members
+  - Core Team Requirements
+- External Affairs
+  - Government Relations
+  - Nonprofit Stakeholders
+  - Corporate Partnerships
+- Resources
+
+# DOCter (from forked repo)
 
 DOCter is a [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.
 
