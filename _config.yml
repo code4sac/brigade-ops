@@ -5,20 +5,20 @@ markdown: kramdown
 highlighter: pygments
 
 # Title
-name: DOCter
-subtitle: A Jekyll template for project documentation
+name: The Code for Sacramento Playbook
+subtitle: Code for Sacramento's Operations Manual
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/DOCter'
+baseurl: '/playbook'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Name
-  url: http://localhost:4000
+  name: Code for Sacramento
+  url: https://code4sac.github.io/playbook
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
@@ -33,16 +33,16 @@ navigation:
 - text: Example Page
   url: example_page.html
   internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
+- text: Project Repo
+  url: https://github.com/code4sac/playbook
   internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: DOCter
-  description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+- name: The Code for Sacramento Playbook
+  description: Code for Sacramento's Operations Manual
+  url: https://github.com/code4sac/playbook
 
 # Style Variables
-brand_color: "#2cb34a"
+brand_color: "#0080ff"
