@@ -1,6 +1,10 @@
 # Brigade Ops
 
 This is our forthcoming Brigade Ops Manual. Topics will include:
+- About Us
+  - History
+  - Mission, Vision and Values
+  - Leadership
 - Events
   - Hack Nights
   - Hackathons
@@ -19,9 +23,10 @@ This is our forthcoming Brigade Ops Manual. Topics will include:
   - Government Relations
   - Nonprofit Stakeholders
   - Corporate Partnerships
+- Finances
 - Resources
 
-# DOCter (from forked repo)
+# DOCter README (from forked repo)
 
 DOCter is a [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.
 
