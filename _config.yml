@@ -5,8 +5,8 @@ markdown: kramdown
 highlighter: pygments
 
 # Title
-name: The Code for Sacramento Playbook
-subtitle: Code for Sacramento's Operations Manual
+name: Code for Sacramento Playbook
+subtitle: Organizational Docs
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -30,8 +30,26 @@ navigation:
 - text: Home
   url: index.html
   internal: true
-- text: Example Page
-  url: example_page.html
+- text: About Us
+  url: about-us
+  internal: true
+- text: Events
+  url: events
+  internal: true
+- text: Projects
+  url: projects
+  internal: true
+- text: Membership
+  url: membership
+  internal: true
+- text: Public Affairs
+  url: public-affairs
+  internal: true
+- text: Finances
+  url: finances
+  internal: true
+- text: Resources
+  url: resources
   internal: true
 - text: Project Repo
   url: https://github.com/code4sac/playbook
@@ -40,8 +58,8 @@ navigation:
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: The Code for Sacramento Playbook
-  description: Code for Sacramento's Operations Manual
+- name: Playbook
+  description: Org Docs
   url: https://github.com/code4sac/playbook
 
 # Style Variables

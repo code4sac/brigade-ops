@@ -2,8 +2,9 @@
 layout: default
 ---
 
-{% capture index %}{% include index.md %}{% endcapture %}
-{{ index | markdownify }}
+## Getting Started
+
+Hello world!
 
 {% if site.repos %}
 <section id="repositories">
@@ -23,15 +24,3 @@ layout: default
   </ul>
 </section>
 {% endif %}
-
-<div id="home">
-  <h2>Posts</h2>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        <span class="post-date">{{ post.date | date_to_string }}</span>
-      </li>
-    {% endfor %}
-  </ul>
-</div>

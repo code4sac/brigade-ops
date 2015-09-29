@@ -1,6 +1,7 @@
 # Brigade Ops
 
 This is our forthcoming Brigade Ops Manual. Topics will include:
+- Getting Started (Home)
 - About Us
   - History
   - Mission, Vision and Values
@@ -19,7 +20,7 @@ This is our forthcoming Brigade Ops Manual. Topics will include:
 - Membership
   - Onboarding New Members
   - Core Team Requirements
-- External Affairs
+- Public Affairs
   - Government Relations
   - Nonprofit Stakeholders
   - Corporate Partnerships
