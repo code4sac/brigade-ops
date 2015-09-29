@@ -5,7 +5,7 @@ markdown: kramdown
 highlighter: pygments
 
 # Title
-name: Code for Sacramento Playbook
+name: Code for Sacramento Handbook
 subtitle: Organizational Docs
 
 # When using this template with a project page set the baseurl to '/project-name'
@@ -13,12 +13,12 @@ subtitle: Organizational Docs
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/playbook'
+baseurl: '/handbook'
 
 # Author/Organization info to be displayed in the templates
 author:
   name: Code for Sacramento
-  url: https://code4sac.github.io/playbook
+  url: https://code4sac.github.io/handbook
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
@@ -52,15 +52,15 @@ navigation:
   url: resources
   internal: true
 - text: Project Repo
-  url: https://github.com/code4sac/playbook
+  url: https://github.com/code4sac/handbook
   internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: Playbook
+- name: Handbook
   description: Org Docs
-  url: https://github.com/code4sac/playbook
+  url: https://github.com/code4sac/handbook
 
 # Style Variables
 brand_color: "#0080ff"
